@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/akash-portfolio/static/css/main.715aad19.chunk.css",
+    "main.js": "/akash-portfolio/static/js/main.f73ad9f6.chunk.js",
+    "main.js.map": "/akash-portfolio/static/js/main.f73ad9f6.chunk.js.map",
+    "runtime-main.js": "/akash-portfolio/static/js/runtime-main.1a8f8478.js",
+    "runtime-main.js.map": "/akash-portfolio/static/js/runtime-main.1a8f8478.js.map",
+    "static/css/2.9c389199.chunk.css": "/akash-portfolio/static/css/2.9c389199.chunk.css",
+    "static/js/2.1958f00f.chunk.js": "/akash-portfolio/static/js/2.1958f00f.chunk.js",
+    "static/js/2.1958f00f.chunk.js.map": "/akash-portfolio/static/js/2.1958f00f.chunk.js.map",
+    "index.html": "/akash-portfolio/index.html",
+    "precache-manifest.f58118c15b8d5a4aa3fb25fcd9e07d41.js": "/akash-portfolio/precache-manifest.f58118c15b8d5a4aa3fb25fcd9e07d41.js",
+    "service-worker.js": "/akash-portfolio/service-worker.js",
+    "static/css/2.9c389199.chunk.css.map": "/akash-portfolio/static/css/2.9c389199.chunk.css.map",
+    "static/css/main.715aad19.chunk.css.map": "/akash-portfolio/static/css/main.715aad19.chunk.css.map",
+    "static/js/2.1958f00f.chunk.js.LICENSE.txt": "/akash-portfolio/static/js/2.1958f00f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a8f8478.js",
+    "static/css/2.9c389199.chunk.css",
+    "static/js/2.1958f00f.chunk.js",
+    "static/css/main.715aad19.chunk.css",
+    "static/js/main.f73ad9f6.chunk.js"
+  ]
+}
